@@ -1,4 +1,4 @@
-# 📡 Telecom Churn Prediction Analysis
+# 📡 Telecom_X_Part2
 
 ![Python](https://img.shields.io/badge/python-3.x-blue.svg)
 ![Data Science](https://img.shields.io/badge/Data%20Science-Analysis-green.svg)
